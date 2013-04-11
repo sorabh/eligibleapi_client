@@ -2,4 +2,4 @@ testClient.py : From this file we will give all arguments resource Url and param
 
 serviceClient.py : In this file we have class serviceClient which have function get_request.This function do a get request and extract the json data. and return a object of class serviceListResponse with arg json data.
 
-serviceListResponse.py : this class cantain all the functions which we want to do with data. 
+serviceListResponse.py : this class cantain all the functions which we want to do with data . 
